@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="author" value="@author lijiajia&#10;@date $DATE$ $TIME$" description="生成注释信息" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
