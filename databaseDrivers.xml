@@ -99,6 +99,13 @@
       <artifact name="Cassandra" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="com.mysql.cj.jdbc.Driver" name="com.mysql.cj.jdbc.Driver" driver-class="com.mysql.cj.jdbc.Driver" />
+    <driver id="com.mysql.cj.jdbc.Driver" name="com.mysql.cj.jdbc.Driver" dialect="MySQL" driver-class="com.mysql.cj.jdbc.Driver">
+      <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
   </component>
 </application>
