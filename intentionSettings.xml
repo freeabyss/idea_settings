@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="XML/Convert attribute to child element" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
   </component>
 </application>
