@@ -5,12 +5,13 @@
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".springformat" type="PLAIN_TEXT" />
+      <mapping pattern="rebar" type="PLAIN_TEXT" />
       <mapping pattern="en" type="PLAIN_TEXT" />
+      <mapping pattern=".springformat" type="PLAIN_TEXT" />
       <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
+      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
