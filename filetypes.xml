@@ -9,6 +9,7 @@
       <mapping pattern=".springformat" type="PLAIN_TEXT" />
       <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
       <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
