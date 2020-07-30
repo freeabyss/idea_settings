@@ -4,7 +4,7 @@
     <extensionMap>
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
       <removed_mapping ext="graphqls" approved="true" type="GraphQL" />
-      <removed_mapping pattern="composer.lock" type="JSON" />
+      <mapping pattern="composer.lock" type="JSON" />
       <mapping pattern="en" type="PLAIN_TEXT" />
       <mapping pattern="rbox-clearing" type="PLAIN_TEXT" />
       <mapping pattern=".springformat" type="PLAIN_TEXT" />
@@ -12,9 +12,9 @@
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <removed_mapping pattern="phpunit.xml.dist" type="XML" />
-      <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
+      <mapping pattern="phpunit.xml.dist" type="XML" />
       <removed_mapping ext="graphqls" approved="true" type="GraphQL" />
+      <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
       <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
