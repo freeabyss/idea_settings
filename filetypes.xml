@@ -4,9 +4,9 @@
     <extensionMap>
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
       <mapping pattern="en" type="PLAIN_TEXT" />
-      <mapping pattern="rebar" type="PLAIN_TEXT" />
-      <mapping pattern=".springformat" type="PLAIN_TEXT" />
       <mapping pattern="rbox-clearing" type="PLAIN_TEXT" />
+      <mapping pattern=".springformat" type="PLAIN_TEXT" />
+      <mapping pattern="rebar" type="PLAIN_TEXT" />
       <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
