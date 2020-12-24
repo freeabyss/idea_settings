@@ -7,11 +7,12 @@
       <mapping pattern="rbox-clearing" type="PLAIN_TEXT" />
       <mapping pattern=".springformat" type="PLAIN_TEXT" />
       <mapping pattern="rebar" type="PLAIN_TEXT" />
+      <mapping pattern="lsiaAbcThrift" type="PLAIN_TEXT" />
+      <mapping pattern="lsiaAbcThrift.thrift" type="PLAIN_TEXT" />
       <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>
