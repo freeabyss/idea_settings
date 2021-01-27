@@ -6,7 +6,4 @@
       <item value="2019-09-09 11:31:42.955 INFO 49845 --- [)-192.168.5.112] o.s.a.r.c.CachingConnectionFactory : Created new connection: orderConnectionFactory#24b24f2a:0/SimpleConnection@49d5ade1 [delegate=amqp://guest@192.168.1.107:5672/order_service, localPort= 62654]" />
     </histories>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-  </component>
 </application>
