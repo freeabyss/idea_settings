@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/workspace/project/central-service" />
+        <option value="$USER_HOME$/workspace/project/finance" />
       </list>
     </option>
   </component>
